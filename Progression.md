@@ -1,0 +1,35 @@
+# Progression
+-- Alpha List
+- create object "a"
+   - name
+   - stats
+     - class
+     - atk
+     - def
+     - hp
+   - image
+   - avatar
+   
+- create object "b"
+   - name
+   - stats
+     - class
+     - atk
+     - def
+     - hp
+   - image
+   - avatar
+- create grid based combat
+  - create battle board interface
+    - create a 2x2 grid that gives bonuses based on which object is where
+      - create a second 2x2 by grid that is recognized as second players grid.
+      - create objects that give +x to stats
+      - create objects that take -x from stats
+  - create attack interface
+    - create attack "attack"
+    - create attack submenu "special"
+      -create abilities based on character classes
+    - create defend
+- create several more objects
+- create ability for objects to be owned
+- create list to show which objects are owned
